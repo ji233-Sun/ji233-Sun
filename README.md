@@ -16,6 +16,10 @@ Here are some ideas to get you started:
 -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ji233-Sun)](https://github.com/yourusername/github-readme-stats)
 
+### About me
+- Nickname: ji233
+- Realname: Simon Sun in English or Xiangqing Sun in Pingyin
+
 ### Connect
 Mail: sunxiangqing6@gmail.com
 
