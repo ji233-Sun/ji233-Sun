@@ -19,6 +19,8 @@ Here are some ideas to get you started:
 ### About me
 - Nickname: ji233
 - Realname: Simon Sun in English or Xiangqing Sun in Pingyin
+- I am a student in the School of Computer Science in the University of Nottingham Ningbo China, UNNC.
+- I am the convener and director of Plants Society (as known as 植创社)
 
 ### Connect
 Mail: sunxiangqing6@gmail.com
