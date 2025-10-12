@@ -15,3 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ji233-Sun)](https://github.com/yourusername/github-readme-stats)
+
+### Connect
+Mail: sunxiangqing6@gmail.com
+
+BiliBili(哔哩哔哩): [ji233不酸酸(ji233 is not sour)](https://space.bilibili.com/3546810693979019)
