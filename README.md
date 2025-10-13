@@ -14,7 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ji233-Sun)](https://github.com/yourusername/github-readme-stats)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ji233-Sun&theme=dracula)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ji233-Sun&theme=dracula)
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ji233-Sun&theme=dracula)
+
+---
 
 ### About me
 - Nickname: ji233
@@ -28,3 +34,7 @@ Mail: sunxiangqing6@gmail.com
 BiliBili(哔哩哔哩): [ji233不酸酸(ji233 is not sour)](https://space.bilibili.com/3546810693979019)
 
 You can call me ji233 or Simon. Feel free to contact me.
+
+---
+
+![Trophy](https://github-profile-trophy.vercel.app/?username=ji233-Sun)
