@@ -14,9 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ji233-Sun&theme=dracula)
-
----
 
 ### About me
 - Nickname: ji233
