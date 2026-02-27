@@ -30,7 +30,3 @@ Mail: sunxiangqing6@gmail.com
 BiliBili(哔哩哔哩): [ji233不酸酸(ji233 is not sour)](https://space.bilibili.com/3546810693979019)
 
 You can call me ji233 or Simon. Feel free to contact me.
-
----
-
-![Trophy](https://github-profile-trophy.vercel.app/?username=ji233-Sun)
