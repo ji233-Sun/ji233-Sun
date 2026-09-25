@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">ji233's GitHub Stats, Rank: A-</title>
-        <desc id="descId">Total Stars Earned: 36, Total Commits  : 2397, Total PRs: 179, Total Issues: 125, Contributed to (last year): 21</desc>
+        <desc id="descId">Total Stars Earned: 36, Total Commits  : 2416, Total PRs: 179, Total Issues: 125, Contributed to (last year): 21</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 81.76680588000622;
+        stroke-dashoffset: 81.66275587024356;
       }
     }
   
